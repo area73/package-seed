@@ -44,3 +44,5 @@ Package seed with all this goodies:
     -. webpack
     -. webpack-cli
     -. webpack-stream    
+    -. webpack-dev-server
+    -. html-webpack-plugin
