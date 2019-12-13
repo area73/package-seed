@@ -30,7 +30,12 @@ Package seed with all this goodies:
 
 ## Prettier
 
-## Husky
+## lint-staged
+    
+Usado junto a husky crea un staged de los cambios para hacer el linting sólo de estos archivos (conn lo que es mucho más rápido)
+Si quisieramos usar lint-staged en un proyecto ya creado podríamos hacer esto: `npx mrm lint-staged` con este comando instala en el proyecto linst-staged y además configura los lintings y husky según la configuración que se tenga en el proyecto   
+    
+## Husky 
     -. husky
     -. npm-run-all
 # Jest
